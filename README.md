@@ -25,7 +25,7 @@ githubUsername: 'svaddadhi'
 
 
 
-<img align="" height='130px' src="[![Vishals's github stats](https://github-readme-stats.vercel.app/api?username=svaddadhi)](https://github.com/svaddadhi/github-readme-stats)
+<img align="" height='130px' src="[![Vishals's github stats](https://github-readme-stats.vercel.app/api?username=svaddadhi)](https://github.com/anuraghazra/github-readme-stats)
 " /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaddadhi&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
 ⭐️ From [VishalVaddadhi](https://github.com/svaddadhi)
