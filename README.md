@@ -26,8 +26,6 @@ githubUsername: 'svaddadhi'
 
 
 [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=svaddadhi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svaddadhi)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ⭐️ From [VishalVaddadhi](https://github.com/svaddadhi)
