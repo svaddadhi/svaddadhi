@@ -1,31 +1,33 @@
----
-title: VishalVaddadhi
-githubUsername: 'svaddadhi'
----
+# 👋 Hello, I'm [Your Name]!
 
-**Languages I have used**
+![Profile Banner](https://your-banner-image-url.com)
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+## 🚀 About Me
 
-**Some of the technologies I have worked with**
+I'm a passionate developer with a knack for creating efficient and scalable solutions. My expertise lies in full-stack development, cloud services, and GraphQL. When I'm not coding, you'll find me exploring new technologies or diving into a good book.
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+### 🛠️ Tech Stack
 
+- **Languages:** JavaScript, Java, C++
+- **Frameworks/Libraries:** NodeJS, Express, ReactJS, React Native, Typescript, Springboot
+- **Cloud Services:** AWS, Azure
+- **Databases:** MongoDB, MySQL, PostgreSQL
 
+### 📫 Get in Touch
 
+- **Email:** [vvaddadhi@gmail.com](mailto:vvaddadhi@gmail.com)
+- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
 
-[![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=svaddadhi)](https://github.com/anuraghazra/github-readme-stats)
+### 💬 Let's Collaborate!
 
+I'm always open to exciting new projects and collaborations. Whether it's an open-source contribution or a cutting-edge startup idea, feel free to reach out!
 
-⭐️ From [VishalVaddadhi](https://github.com/svaddadhi)
+### 🎨 Fun Facts
+
+- A huge fan of building custom mechanical keyboards.
+- Avid skier.
+
+## 📊 Most Used Languages
+
+![Most Used Languages](./github-metrics.svg)
+
